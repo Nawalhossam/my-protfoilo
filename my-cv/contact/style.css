@@ -474,8 +474,8 @@ flex-direction:column;
       background-color: rgb(239, 224, 238); 
       position:absolute;
       width: 15%;
-      top: 70%;
-      left: 30%;
+      top: 65%;
+      left: 33%;
       font-size: 20px;
    }
    .EXPER{
@@ -491,9 +491,8 @@ flex-direction:column;
       position:absolute;
       width: 30px;
       height: 30px;
-      top: 75%;
-      left: 20%;
-
+      top: 70%;
+      left: 22%;
    }
    .Project_ {
       background-color: whitesmoke;
